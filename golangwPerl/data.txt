@@ -1,0 +1,9 @@
+134 is not a prime 
+11 is a prime 
+3325 is not a prime 
+5234234 is not a prime 
+3 is a prime 
+4345 is not a prime 
+7 is a prime 
+6 is not a prime 
+2 is a prime 
