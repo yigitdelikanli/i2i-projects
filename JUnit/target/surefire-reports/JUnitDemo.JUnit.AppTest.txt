@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: JUnitDemo.JUnit.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.04 s <<< FAILURE! - in JUnitDemo.JUnit.AppTest
+testBusinessLogic(JUnitDemo.JUnit.AppTest)  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.AssertionError: expected:<false> but was:<true>
+	at JUnitDemo.JUnit.AppTest.testBusinessLogic(AppTest.java:24)
+
